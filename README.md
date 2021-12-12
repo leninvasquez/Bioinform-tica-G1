@@ -13,4 +13,6 @@ Repositorio para los recursos de clase del G1 de Bioinformática IKIAM 2021
 
 ## Participantes 
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
 
